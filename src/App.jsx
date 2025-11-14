@@ -8,7 +8,7 @@ import {
   Grid,
   Container,
 } from "@mui/material";
-import JobCard from "./jobcard.jsx";
+import JobCard from "./JobCard.jsx";
 
 const App = () => {
   const [query, setQuery] = useState("");
